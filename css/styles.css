@@ -289,7 +289,11 @@ p{
     padding: 0.5em 0.7em;
 }
 
-
+.mapa{
+    height: 75%;
+    width: 100%;
+    padding: 1em;
+}
 
 /* CLIENTES */
 .clientesMain{
