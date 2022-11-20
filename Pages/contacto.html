@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
     <title>SEO Solutions - Contacto</title>
     <link rel="shortcut icon" href="../full-stack-coder/assets/img/favicon.ico">
-    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="../sass/main.css">
     <!-- Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
 </head>
@@ -25,7 +25,7 @@
                     <li class="nav-item"><a class="nav-link" href="./clientes.html">Clientes</a></li>
                     <li class="nav-item"><a class="nav-link" href="./casos-de-exito.html">Casos de éxito</a></li>
                     <li class="nav-item"><a class="nav-link" href="./equipo.html">Equipo</a></li>
-                    <a class="btn btn-outline-gray active" aria-current="page"" href="#">Contacto</a>
+                    <a class="btn btn-outline-gray active" aria-current="page" href="#">Contacto</a>
                 </div>
             </div>
             </nav>
@@ -38,26 +38,40 @@
         </section>
         <aside class="formulario">
             <h2>¿Querés contactarnos?</h2>
-            <p>¡Al solicitar un presupuesto recibirás una primera auditoría gratuita!</p>
-            <form action="">
-                <label for="nombreApellido">Nombre y apellido</label>
-                <input type="text" id="nombreApellido" name="nombre-apellido" placeholder="Juan Pérez">
-                <label for="correoElectronico">Correo electrónico</label>
-                <input type="email" id="correoElectronico" name="correo-electronico" placeholder="juanperez@mail.com">
-                <label for="telefono">Teléfono</label>
-                <input type="tel" id="telefono" name="telefono" placeholder="+5491100000000">
-                <label for="webpage">Página web</label>
-                <input type="url" name="webpage" id="webpage" placeholder="www.tupaginaweb.com">
-                <label for="motivo">Seleccioná el motivo</label>
-                <select name="motivo" id="motivo">
-                    <option value="consulta">Consulta</option>
-                    <option value="presupuesto">Presupuesto</option>
-                </select>
-                <label for="consulta">Consulta</label>
-                <textarea name="consulta" id="consulta" cols="30" rows="10" placeholder="Dejanos tu consulta aquí"></textarea>      
-                <label for="newsletter">Me interesa suscribirme al newsletter </label>
-                <input type="checkbox" id="newsletter" name="newsletter" value="aceptar">
-                <input type="submit" value="Enviar">
+            <p>¡Al solicitar un presupuesto recibirás una primera auditoría <b>gratuita!</b></p>
+            <form>
+                <div class="mb-2">
+                    <label for="nombreApellido" class="form-label">Nombre y apellido</label>
+                    <input type="text" class="form-control" id="nombreApellido" placeholder="Juan Pérez">
+                </div>
+                <div class="mb-2">
+                    <label for="email" class="form-label">Correo electrónico</label>
+                    <input type="email" class="form-control" id="email" placeholder="juanperez@mail.com">
+                </div>
+                <div class="mb-2">
+                    <label for="telefono" class="form-label">Teléfono</label>
+                    <input type="tel" class="form-control" id="telefono" placeholder="+5491100000000">
+                </div>
+                <div class="mb-2">
+                    <label for="website" class="form-label">Sitio web</label>
+                    <input type="url" class="form-control" id="website" placeholder="www.tupaginaweb.com">
+                </div>
+                <div class="pt-3 pb-3">
+                    <select class="form-select" aria-label="Default select example">
+                        <option selected>Seleccioná el motivo</option>
+                        <option value="1">Consulta</option>
+                        <option value="2">Presupuesto</option>
+                    </select>
+                </div>
+                <div class="mb-2">
+                    <label for="consulta" class="form-label">Consulta</label>
+                    <textarea class="form-control" id="consulta" rows="3"></textarea>
+                </div>
+                <div class="m-2 form-check">
+                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                    <label class="form-check-label" for="exampleCheck1">Me interesa suscribirme al newsletter</label>
+                </div>
+                <button type="submit" class="btn btn-outline-gray active">Enviar</button>
             </form>
         </aside>
         <div>
@@ -84,7 +98,7 @@
         </div>
         <nav class="navFooter">
             <ul>
-                <li><a href="../index.html">SEO Solutions</a></li>
+                <li><b><a href="../index.html">SEO Solutions</a></b></li>
                 <li><a href="./nosotros.html">Nosotros</a></li>
                 <li><a href="./clientes.html">Clientes</a></li>
                 <li><a href="./casos-de-exito.html">Casos de éxito</a></li>

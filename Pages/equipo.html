@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SEO Solutions - Equipo</title>
     <link rel="shortcut icon" href="../full-stack-coder/assets/img/favicon.ico">
-    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="../sass/main.css">
     <!-- Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
 </head>
@@ -25,7 +25,7 @@
                     <li class="nav-item"><a class="nav-link" href="./clientes.html">Clientes</a></li>
                     <li class="nav-item"><a class="nav-link" href="./casos-de-exito.html">Casos de éxito</a></li>
                     <li class="nav-item"><a class="nav-link active" aria-current="page"" href="#">Equipo</a></li>
-                    <a class="btn btn-outline-gray" href="./contacto.html">Contacto</a>
+                    <a class="btn btn-outline-dark" href="./contacto.html">Contacto</a>
                 </div>
             </div>
             </nav>
@@ -35,25 +35,33 @@
             <h1>Equipo</h1>
             <h2>Te presentamos a nuestros integrantes</h2>
         </div>
-        <section id="sectionEquipo">
-            <div id="gridJuan">
-                    <h2>Juan Pérez</h2>
-                    <img src="../assets/img/equipo1.jpg" width="50%" height="auto%" class="imgJuan">
-                    <div class="txtJuan">
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum expedita similique commodi corrupti sed, doloremque ducimus! Error fugiat rerum sunt velit impedit quas eaque praesentium illum recusandae sequi consequuntur accusamus ut, ullam sit asperiores dolorem inventore dolor ratione tempore adipisci. Culpa facilis deleniti laboriosam voluptatum vel, dignissimos inventore maiores minus reprehenderit dolorem aliquid earum assumenda neque distinctio fuga quo corporis aut, laborum repudiandae numquam perspiciatis. Enim veritatis alias sed cupiditate ab? Voluptates distinctio ullam, magnam dolor facilis vitae eius cum atque, totam, perspiciatis quidem quisquam voluptatem consectetur culpa ipsum corporis voluptas! Velit fugiat aliquid repudiandae libero deserunt, quasi soluta laboriosam a optio doloremque et, hic praesentium repellendus consequatur. Sequi veritatis repellendus nam, odio necessitatibus aut labore quia! Quasi neque nobis animi molestias atque iure magnam, cum doloremque nulla ducimus distinctio laudantium officiis eligendi sint iste similique!</p>
-                </div> 
-            </div>               
-            <div id="gridSol">
-                <h2>Sol Martínez</h2>
-                <img src="../assets/img/equipo2.jpg" width="50%" height="auto" class="imgSol">
-                <div class="txtSol">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla incidunt rem autem ut consectetur reiciendis sed ipsa aperiam culpa recusandae maxime nisi ipsam minima veniam consequatur, laborum expedita voluptatibus quia debitis nam! Alias dolorem nostrum expedita? Possimus, ipsam saepe facilis sequi distinctio ut veritatis voluptatem numquam dolore optio alias laboriosam maxime dicta, nostrum corrupti aspernatur provident itaque beatae eaque nesciunt similique error sed perferendis eligendi. Doloribus nam, libero, sint corporis distinctio repellat modi similique fugit natus sequi sapiente magni repudiandae obcaecati quibusdam id. Itaque, labore cum adipisci sit natus veniam ducimus eos eum deserunt earum aliquid est odit, iste at?</p>
+        <section class="equipo">
+            <section class="cards">
+                <div class="juan">
+                    <div class="card w-50 p-0">
+                        <img src="../assets/img/equipo1.jpg" class="card-img-top" alt="Nuestro equipo">
+                        <div class="card-body">
+                            <h5 class="card-title text-center">Juan Pérez</h5>
+                            <p class="card-text text-center">Cofounder - CEO</p>
+                        </div>
+                    </div>
                 </div>
-            </div>
-        </div>
+                <div class="sol">
+                    <div class="card w-50 p-0">
+                        <img src="../assets/img/equipo2.jpg" class="card-img-top" alt="Nuestro equipo">
+                        <div class="card-body">
+                                <h5 class="card-title text-center">Sol Martínez</h5>
+                                <p class="card-text text-center">Cofounder - CEO</p>
+                        </div>
+                    </div>
+                </div>
+        </section>
+
+
+            </section>
         </section>
         <div>
-        <button class="whatsapp">
+            <button class="whatsapp">
             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#028A0F" class="bi bi-whatsapp" viewBox="0 0 16 16">
             <path d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z"/></svg>
             </button>
@@ -76,7 +84,7 @@
         </div>
         <nav class="navFooter">
             <ul>
-                <li><a href="../index.html">SEO Solutions</a></li>
+                <li><b><a href="../index.html">SEO Solutions</a></b></li>
                 <li><a href="./nosotros.html">Nosotros</a></li>
                 <li><a href="./clientes.html">Clientes</a></li>
                 <li><a href="./casos-de-exito.html">Casos de éxito</a></li>
