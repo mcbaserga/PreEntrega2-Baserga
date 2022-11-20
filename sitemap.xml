@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/issues</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/pulls</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/projects?query=is%3Aopen</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/security</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/commit/11fc05f2b732033dbf0fce1e732424cfbf0c3d1f</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/commit/9d691ac9d2d2c1c99d99439ddc8e047ae4937df1</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/blob/master/README.md</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/commit/d85e8a57fc296a4e66172d8dec21c9986b049ae4</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/blob/master/index.html</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/releases</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/labels</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/milestones</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/compare</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/caches</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3509756120</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3450886059</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3405034222</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3404989165</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3404949507</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/security/policy</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/security/advisories</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/commit/813a71a60ae61eccbb8d490943aa793b48d5e374</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/blob/11fc05f2b732033dbf0fce1e732424cfbf0c3d1f/README.md</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/find/master</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/blob/master/README.md?plain=1</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/blob/11fc05f2b732033dbf0fce1e732424cfbf0c3d1f/index.html</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/labels?sort=name-asc</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/labels?sort=name-desc</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/labels?sort=count-desc</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/labels?sort=count-asc</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/labels/bug</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/labels/documentation</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/labels/duplicate</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/labels/enhancement</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/labels/good%20first%20issue</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/labels/help%20wanted</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/labels/invalid</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/labels/question</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/labels/wontfix</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/milestones?state=open</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/milestones?state=closed</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3509756120/jobs/5879076414</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3509756120/jobs/5879080895</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3509756120/jobs/5879080768</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3509756120/usage</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3450886059/jobs/5759752497</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3450886059/jobs/5759756448</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3450886059/jobs/5759756508</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3450886059/usage</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3405034222/jobs/5662698981</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3405034222/jobs/5662703875</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3405034222/jobs/5662703825</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3405034222/usage</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/commit/a712751f609db28833a2d1247aedcd7139e30518</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3404989165/jobs/5662620188</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3404989165/jobs/5662624618</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3404989165/jobs/5662624661</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3404989165/usage</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3404949507/jobs/5662556465</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3404949507/jobs/5662560437</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3404949507/jobs/5662560477</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/actions/runs/3404949507/usage</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/find/11fc05f2b732033dbf0fce1e732424cfbf0c3d1f</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/blob/11fc05f2b732033dbf0fce1e732424cfbf0c3d1f/README.md?plain=1</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/mcbaserga/PreEntrega2-Baserga.github.io/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-11-20T22:19:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
