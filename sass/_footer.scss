@@ -2,12 +2,14 @@
     line-height: 1.5;
     padding: 1em;
     font-size: 0.7rem;
-    border-top: #A69151;
-    border-top-width: 0.2em;
-    border-style: solid;
-    border-left: none;
-    border-right: none;
-    border-bottom: none;
+    border: {
+        -top: #A69151;
+        -top-width: 0.2em;
+        -style: solid;
+        -left: none;
+        -right: none;
+        -bottom: none;
+    }
 }
 
 .navFooter a{
@@ -18,21 +20,12 @@
     text-decoration: none;
     text-decoration-style: none;
     color:#000;
-}
-.navFooter li{
-    text-decoration: none;
-    color: #000;
-    text-decoration-style: none;
-    list-style: none;
-    font-size: 0.9rem;
-    & li:hover{
-        height: 1.5em;
-        transition: height 1s;
-    }
-        & li a:hover{
-            height: 1.5em;
-            transition: height 1s;
-            color:#A69151;
+        & li{
+            text-decoration: none;
+            text-decoration-style: none;
+            list-style: none;
+            font-size: 0.9rem;
+            color: #000;
         }
 }
 
@@ -43,12 +36,11 @@
     text-decoration-style: none;
     color:#000;
     text-align: center;
-}
-
-.contacto a{
-    font-size:0.8rem;
-    padding:2em;
-    text-decoration: none;
-    text-decoration-style: none;
-    color:#000;
-}
+        & a{
+            font-size:0.8rem;
+            padding:2em;
+            text-decoration: none;
+            text-decoration-style: none;
+            color: $color2;
+            }
+        }

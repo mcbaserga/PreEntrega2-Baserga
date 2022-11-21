@@ -10,6 +10,10 @@
 }
 
 // GENERAL
+$color1:#A69281;
+$color2:#A69151;
+$backgroundColor:#fff;
+
 *{
     padding: 0;
     margin: 0;
@@ -18,13 +22,13 @@
 }
 
 h1{
-    color: #A69281;
+    color: $color1;
     padding: 0.3em;
     font-size: 1rem;
 }
 
 h2{
-    color: #A69281;
+    color: $color1;
     padding: 0.5em;
     font-size: 0.7rem;
 }
@@ -38,7 +42,7 @@ p{
 
 @mixin btn {
     font-size: 0.9rem;
-    background-color: #dde1d4;
+    background-color: #fff;
     border: none;
     font-weight: 900;
 }

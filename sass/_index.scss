@@ -20,12 +20,12 @@
         color:#000;
         font-family: 'Catamaran';
         font-size: 3rem;
-        -webkit-text-stroke: #A69281;
+        -webkit-text-stroke:$color1;
         -webkit-text-stroke-width: 1.5px;
     }
         & h2{
             font-size: 2.5rem;
-            color: #A69281;
+            color: $color2;
             -webkit-text-stroke: #000;
             -webkit-text-stroke-width: 1.5px;
             /* text-shadow: 0 0 0.5rem #000; */
