@@ -3,30 +3,39 @@
     padding: 1em;
     font-size: 0.7rem;
     border: {
-        -top: #A69151;
-        -top-width: 0.2em;
-        -style: solid;
-        -left: none;
-        -right: none;
-        -bottom: none;
+        top: #A69151;
+        top-width: 0.2em;
+        style: solid;
+        left: none;
+        right: none;
+        bottom: none;
     }
 }
 
-.navFooter a{
-    display: flex;
-    flex-direction: column; 
-    text-align: center;
-    justify-content: center;
+.navFooter li {
     text-decoration: none;
+    color: #000;
     text-decoration-style: none;
-    color:#000;
-        & li{
-            text-decoration: none;
-            text-decoration-style: none;
-            list-style: none;
-            font-size: 0.9rem;
-            color: #000;
+    list-style: none;
+    font-size: 0.9rem;
+    & a{
+        display: flex;
+        flex-direction: column; 
+        text-align: center;
+        justify-content: center;
+        text-decoration: none;
+        text-decoration-style: none;
+        color:#000;
+        & li:hover {
+        height: 1.5em;
+        transition: height 1s;
+            & a:hover {
+                height: 1.5em;
+                transition: height 1s;
+                color: #A69151;
+            }
         }
+    }    
 }
 
 .contacto{
@@ -41,6 +50,9 @@
             padding:2em;
             text-decoration: none;
             text-decoration-style: none;
-            color: $color2;
+            color: #A69151;
+            & li a:hover {
+                color: #A69151;
             }
         }
+}

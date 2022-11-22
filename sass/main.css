@@ -1,4 +1,3 @@
-/* FONTS */
 @font-face {
   font-family: "Roboto";
   src: url(../assets/fonts/Roboto/Roboto-Regular.ttf);
@@ -7,7 +6,6 @@
   font-family: "Catamaran";
   src: url(../assets/fonts/Catamaran/Catamaran-VariableFont_wght.ttf);
 }
-/* GENERAL */
 * {
   padding: 0;
   margin: 0;
@@ -34,7 +32,6 @@ p {
   padding: 1em;
 }
 
-/* HEADER */
 .header {
   width: 100%;
   height: auto;
@@ -61,15 +58,18 @@ p {
   align-items: baseline;
   flex-wrap: nowrap;
 }
+
 .navHeader li:hover {
   height: 1.5em;
   transition: height 1s;
 }
+
 .navHeader li a:hover {
   height: 1.5em;
   transition: height 1s;
   color: #A69151;
 }
+
 .navHeader ul {
   list-style: none;
   padding: 2em;
@@ -80,15 +80,23 @@ p {
   align-items: center;
   justify-content: space-around;
 }
+
 .navHeader ul li a {
   text-decoration: none;
   color: #000;
   margin: 20px;
 }
 
-/* INDEX */
+.contactoButton {
+  font-size: 0.9rem;
+  background-color: #dde1d4;
+  border: none;
+  font-weight: 900;
+  padding: 0.5em 0.7em;
+}
+
 .backgroundImage {
-  background-image: url("../assets/img/index-transparent.jpg");
+  background-image: url("../assets/img/index-transparent.jpeg");
   background-color: transparent;
   height: 100vh;
   background-position: center;
@@ -98,7 +106,6 @@ p {
   position: relative;
 }
 
-/* INDEX MAIN */
 .text1 {
   line-height: 1.5;
   margin: 2.8em;
@@ -115,13 +122,12 @@ p {
 }
 .text1 h2 {
   font-size: 2.5rem;
-  color: #A69281;
+  color: #A69151;
   -webkit-text-stroke: #000;
   -webkit-text-stroke-width: 1.5px;
   /* text-shadow: 0 0 0.5rem #000; */
 }
 
-/* CLIENTES */
 .clientesMain {
   font-size: 1rem;
   line-height: 1.5;
@@ -137,7 +143,6 @@ p {
   height: auto;
 }
 
-/* CONTACTO */
 #layoutGrid {
   padding: 1em;
   display: grid;
@@ -179,7 +184,6 @@ p {
   flex-direction: row;
 }
 
-/* FOOTER */
 .footer {
   line-height: 1.5;
   padding: 1em;
@@ -192,7 +196,15 @@ p {
   border-bottom: none;
 }
 
-.navFooter a {
+.navFooter li {
+  text-decoration: none;
+  color: #000;
+  -webkit-text-decoration-style: none;
+          text-decoration-style: none;
+  list-style: none;
+  font-size: 0.9rem;
+}
+.navFooter li a {
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -202,20 +214,11 @@ p {
           text-decoration-style: none;
   color: #000;
 }
-
-.navFooter li {
-  text-decoration: none;
-  color: #000;
-  -webkit-text-decoration-style: none;
-          text-decoration-style: none;
-  list-style: none;
-  font-size: 0.9rem;
-}
-.navFooter li li:hover {
+.navFooter li a li:hover {
   height: 1.5em;
   transition: height 1s;
 }
-.navFooter li li a:hover {
+.navFooter li a li:hover a:hover {
   height: 1.5em;
   transition: height 1s;
   color: #A69151;
@@ -230,17 +233,18 @@ p {
   color: #000;
   text-align: center;
 }
-
 .contacto a {
   font-size: 0.8rem;
   padding: 2em;
   text-decoration: none;
   -webkit-text-decoration-style: none;
           text-decoration-style: none;
-  color: #000;
+  color: #A69151;
+}
+.contacto a li a:hover {
+  color: #A69151;
 }
 
-/* NOSOTROS */
 #mainNosotros {
   display: grid;
 }
@@ -261,7 +265,6 @@ p {
   text-align: justify;
 }
 
-/* Responsive mobile-first */
 @media screen and (min-width: 320px) and (max-width: 767px) {
   #mainNosotros {
     grid-template-columns: 1fr;
@@ -294,7 +297,6 @@ p {
     grid-template-columns: 1fr 1fr;
   }
 }
-/* WHATSAPP ICON */
 .whatsapp {
   position: fixed;
   display: flex;
